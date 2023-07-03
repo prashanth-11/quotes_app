@@ -1,0 +1,28 @@
+body{
+    overflow-x: hidden;
+}
+.font{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    
+}
+
+.card-img-overlay{
+    font-weight: bold;
+    font-size: x-large;
+}
+.ps{
+    font-style:italic;
+    font-weight: bolder;
+    color: rgb(247, 243, 7);
+    font-size: xx-large;
+}
+
+@media only screen and (max-width: 600px) {
+    .pk{
+        height:  600px !important;
+    }
+    .pk img {height: 100% !important;}
+  
+}
